@@ -18,7 +18,7 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(9 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  display: none;
 
   & + .page__meta {
     margin-top: -0.5em;

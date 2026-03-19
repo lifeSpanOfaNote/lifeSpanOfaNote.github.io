@@ -6,6 +6,7 @@ permalink: /publication/2023-tomacs-wasserstein
 excerpt: 'A neural network approach for learning to simulate sequentially generated data using Wasserstein training.'
 date: 2023-07-01
 venue: 'ACM Transactions on Modeling and Computer Simulation'
+authors: 'T. Zhu, H. Liu, Z. Zheng'
 paperurl: 'https://doi.org/10.1145/3583070'
 ---
 
