@@ -9,24 +9,7 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 
 ---
 
-## Repertoire
-
-### SOLO
-
-**Johann Sebastian Bach**
-- Two-Part Inventions Nos. 2 & 10 (BWV 773, 781) and Three-Part Sinfonias Nos. 11 & 12 (BWV 797, 798)
-- Prelude and Fugue in C minor, BWV 847 (Well-Tempered Clavier, Book I)
-- Prelude and Fugue in C♯ major, BWV 848 (Well-Tempered Clavier, Book I)
-- Prelude and Fugue in E♭ minor / D♯ minor, BWV 853 (Well-Tempered Clavier, Book I)
-- Concerto in D minor after Alessandro Marcello, BWV 974
-
-**Johannes Brahms**
-- Intermezzo in A major, Op. 118, No. 2
-
-**Frédéric Chopin**
-- Nocturne in B♭ minor, Op. 9, No. 1
-
-### CHAMBER
+## Chamber Repertoire
 
 **Ludwig van Beethoven**
 - Violin Sonata No. 4 in A minor, Op. 23
