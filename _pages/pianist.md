@@ -1,5 +1,6 @@
 ---
 permalink: /pianist/
+title: "Piano"
 author_profile: true
 ---
 
