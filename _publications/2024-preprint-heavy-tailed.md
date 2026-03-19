@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2024-preprint-heavy-tailed
 excerpt: 'A diffusion model approach for generating heavy-tailed conditional distributions. Under major revision at Operations Research.'
-date: 2024-12-01
+date: 2025-01-01
 venue: 'Under major revision at Operations Research'
 authors: 'H. Liu*, T. Zhu*, N. Jia, J. He, Z. Zheng (*co-first author)'
 paperurl: 'https://ssrn.com/abstract=4975931'
