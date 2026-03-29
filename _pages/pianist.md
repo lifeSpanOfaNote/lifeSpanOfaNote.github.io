@@ -20,7 +20,7 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 - Nocturne for Violin and Piano
 
 **Johannes Brahms**
-- Piano Trio No. 1 in B major, Op. 8
+- Piano Trio No. 1 in B major, Op. 8 (1889 version)
 
 **Wolfgang Amadeus Mozart**
 - Violin Sonata in G major, K. 301
@@ -31,7 +31,7 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 ## Selected Past Performances
 
 **February 18, 2026 — Hertz Hall, UC Berkeley**
-- Johannes Brahms: Piano Trio No. 1 in B major, Op. 8
+- Johannes Brahms: Piano Trio No. 1 in B major, Op. 8 (1889 version)
 
 **May 11, 2025 — Berkeley Piano Club**
 - W.A. Mozart: Violin Sonata in G major, K. 301

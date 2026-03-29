@@ -12,5 +12,5 @@ paperurl: 'https://arxiv.org/abs/2505.18223'
 
 IDA-Bench is a comprehensive benchmark designed to evaluate Large Language Models on interactive guided data analysis tasks. The benchmark tests LLMs' abilities to understand data, generate appropriate analyses, and respond to user guidance.
 
-**Authors**: H. Li*, H. Liu*, T. Zhu*, T. Guo*, Z. Zheng, X. Deng, M. I. Jordan (*co-first author)
+**Authors**: Hanyu Li*, Haoyu Liu*, Tingyu Zhu*, Tianyu Guo*, Zeyu Zheng, Xiaotie Deng, Michael I. Jordan (*co-first author)
 

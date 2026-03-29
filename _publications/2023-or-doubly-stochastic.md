@@ -12,6 +12,6 @@ paperurl: ''
 
 This paper develops a doubly stochastic simulator with applications in arrivals modeling and simulation, providing novel approaches for stochastic process modeling.
 
-**Authors**: Y. Zheng, Z. Zheng, T. Zhu (in alphabetical order)
+**Authors**: Yufeng Zheng, Zeyu Zheng, Tingyu Zhu (in alphabetical order)
 
 Published in *Operations Research*, 2023.

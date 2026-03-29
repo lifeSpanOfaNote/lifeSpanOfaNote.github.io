@@ -12,4 +12,4 @@ paperurl: ''
 
 ResiliBench is a benchmark designed to evaluate how well agentic workflows adapt in stochastic environments. The benchmark provides a systematic framework for assessing the resilience and adaptability of AI agent systems.
 
-**Authors**: R. Ao*, Z. Min*, T. Zhu*, W. Yin, X. Wang (*co-first author)
+**Authors**: Ruicheng Ao*, Zeping Min*, Tingyu Zhu*, Wotao Yin, Xinshang Wang (*co-first author)

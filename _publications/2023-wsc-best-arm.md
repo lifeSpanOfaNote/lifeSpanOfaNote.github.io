@@ -12,6 +12,6 @@ paperurl: ''
 
 This paper studies the best arm identification problem with fairness constraints on subpopulations. We develop algorithms that balance exploration efficiency with fairness requirements across different population groups.
 
-**Authors**: Y. Wu, Z. Zheng, T. Zhu (in alphabetical order)
+**Authors**: Yuhang Wu, Zeyu Zheng, Tingyu Zhu (in alphabetical order)
 
 Published in *Proceedings of 56th Winter Simulation Conference (WSC)*, 2023.

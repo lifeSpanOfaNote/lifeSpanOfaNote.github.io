@@ -13,7 +13,7 @@ citation: 'H. Liu, T. Zhu, N. Jia, J. He, Z. Zheng. (2024). "Learning to Generat
 
 This paper develops a diffusion model-based approach for generating samples from heavy-tailed conditional distributions. The method is particularly useful for applications in finance and risk management where heavy-tailed distributions are prevalent.
 
-**Authors**: H. Liu*, T. Zhu*, N. Jia, J. He, Z. Zheng (*co-first author)
+**Authors**: Tingyu Zhu*, Haoyu Liu*, Nanshan Jia, Jinghai He, Zeyu Zheng (*co-first author)
 
 *Presented at 2024 INFORMS Annual Meeting*
 

@@ -12,5 +12,5 @@ paperurl: 'https://icml.cc/virtual/2025/poster/44043'
 
 This paper presents an efficient method for fine-grained guidance in diffusion-based symbolic music generation. As co-first authors, we developed novel techniques for controllable music generation that enables users to guide the generation process at a fine-grained level.
 
-**Authors**: T. Zhu*, H. Liu*, Z. Wang, Z. Jiang, Z. Zheng (*co-first author)
+**Authors**: Tingyu Zhu*, Haoyu Liu*, Ziyu Wang, Zhimin Jiang, Zeyu Zheng (*co-first author)
 
