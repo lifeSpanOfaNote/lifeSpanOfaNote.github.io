@@ -6,7 +6,7 @@ permalink: /publication/2023-or-doubly-stochastic
 excerpt: 'A doubly stochastic simulator for arrivals modeling and simulation.'
 date: 2023-09-01
 venue: 'Operations Research'
-authors: 'Y. Zheng, Z. Zheng, T. Zhu (in alphabetical order)'
+authors: 'Yufeng Zheng, Zeyu Zheng, Tingyu Zhu (in alphabetical order)'
 paperurl: ''
 ---
 

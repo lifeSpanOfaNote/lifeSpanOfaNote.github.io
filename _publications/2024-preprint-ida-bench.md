@@ -6,7 +6,7 @@ permalink: /publication/2024-preprint-ida-bench
 excerpt: 'A benchmark for evaluating Large Language Models on interactive data analysis tasks.'
 date: 2025-11-01
 venue: 'arXiv Preprint'
-authors: 'H. Li*, H. Liu*, T. Zhu*, T. Guo*, Z. Zheng, X. Deng, M. I. Jordan (*co-first author)'
+authors: 'Hanyu Li*, Haoyu Liu*, Tingyu Zhu*, Tianyu Guo*, Zeyu Zheng, Xiaotie Deng, Michael I. Jordan (*co-first author)'
 paperurl: 'https://arxiv.org/abs/2505.18223'
 ---
 

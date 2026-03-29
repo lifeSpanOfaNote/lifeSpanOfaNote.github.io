@@ -6,7 +6,7 @@ permalink: /publication/2023-wsc-best-arm
 excerpt: 'Best arm identification with fairness constraints on subpopulations.'
 date: 2023-12-01
 venue: 'Winter Simulation Conference (WSC)'
-authors: 'Y. Wu, Z. Zheng, T. Zhu (in alphabetical order)'
+authors: 'Yuhang Wu, Zeyu Zheng, Tingyu Zhu (in alphabetical order)'
 paperurl: ''
 ---
 

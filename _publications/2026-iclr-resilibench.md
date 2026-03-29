@@ -6,7 +6,7 @@ permalink: /publication/2026-iclr-resilibench
 excerpt: 'A benchmark for evaluating agentic workflow adaptation in stochastic environments.'
 date: 2026-05-01
 venue: 'International Conference on Learning Representations (ICLR)'
-authors: 'R. Ao*, Z. Min*, T. Zhu*, W. Yin, X. Wang (*co-first author)'
+authors: 'Ruicheng Ao*, Zeping Min*, Tingyu Zhu*, Wotao Yin, Xinshang Wang (*co-first author)'
 paperurl: ''
 ---
 

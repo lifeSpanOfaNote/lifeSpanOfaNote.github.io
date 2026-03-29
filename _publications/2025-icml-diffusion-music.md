@@ -6,7 +6,7 @@ permalink: /publication/2025-icml-diffusion-music
 excerpt: 'A novel approach for controllable symbolic music generation using diffusion models with fine-grained guidance.'
 date: 2025-06-01
 venue: 'International Conference on Machine Learning (ICML)'
-authors: 'T. Zhu*, H. Liu*, Z. Wang, Z. Jiang, Z. Zheng (*co-first author)'
+authors: 'Tingyu Zhu*, Haoyu Liu*, Ziyu Wang, Zhimin Jiang, Zeyu Zheng (*co-first author)'
 paperurl: 'https://icml.cc/virtual/2025/poster/44043'
 ---
 
