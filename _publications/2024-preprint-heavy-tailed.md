@@ -8,7 +8,7 @@ date: 2025-01-01
 venue: 'Under major revision at Operations Research'
 authors: 'Tingyu Zhu*, Haoyu Liu*, Nanshan Jia, Jinghai He, Zeyu Zheng (*co-first author)'
 paperurl: 'https://ssrn.com/abstract=4975931'
-citation: 'H. Liu, T. Zhu, N. Jia, J. He, Z. Zheng. (2024). "Learning to Generate Heavy-tailed Conditional Distribution via Diffusion Model." <i>Under major revision at Operations Research</i>.'
+citation: 'H. Liu, T. Zhu, N. Jia, J. He, Z. Zheng. (2024). "Learning to Generate Heavy-tailed Conditional Distribution via Diffusion Model." <i>Under minor revision at Operations Research</i>.'
 ---
 
 This paper develops a diffusion model-based approach for generating samples from heavy-tailed conditional distributions. The method is particularly useful for applications in finance and risk management where heavy-tailed distributions are prevalent.

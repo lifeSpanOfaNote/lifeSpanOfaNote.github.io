@@ -14,4 +14,4 @@ This paper develops a doubly stochastic simulator with applications in arrivals 
 
 **Authors**: Yufeng Zheng, Zeyu Zheng, Tingyu Zhu (in alphabetical order)
 
-Published in *Operations Research*, 2023.
+*Operations Research*, 2023.
