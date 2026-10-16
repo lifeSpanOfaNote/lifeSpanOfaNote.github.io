@@ -7,7 +7,6 @@ excerpt: 'A benchmark for evaluating agentic workflow adaptation in stochastic e
 date: 2026-05-01
 venue: 'International Conference on Learning Representations (ICLR)'
 authors: 'Ruicheng Ao*, Zeping Min*, Tingyu Zhu*, Wotao Yin, Xinshang Wang (*co-first author)'
-paperurl: ''
 ---
 
 ResiliBench is a benchmark designed to evaluate how well agentic workflows adapt in stochastic environments. The benchmark provides a systematic framework for assessing the resilience and adaptability of AI agent systems.

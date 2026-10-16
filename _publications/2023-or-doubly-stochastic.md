@@ -7,7 +7,7 @@ excerpt: 'A doubly stochastic simulator for arrivals modeling and simulation.'
 date: 2023-09-01
 venue: 'Operations Research'
 authors: 'Yufeng Zheng, Zeyu Zheng, Tingyu Zhu (in alphabetical order)'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2012.13940'
 ---
 
 This paper develops a doubly stochastic simulator with applications in arrivals modeling and simulation, providing novel approaches for stochastic process modeling.

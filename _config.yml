@@ -23,7 +23,7 @@ repository               : "lifeSpanOfaNote/lifeSpanOfaNote.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "avatar.jpg"
   name             : "Tingyu Zhu"
   pronouns         : # "he/him"
   bio              : "Ph.D. Candidate in UC Berkeley, IEOR"
@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   preprints:
-    title: 'Preprints'
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

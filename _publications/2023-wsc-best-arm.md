@@ -7,7 +7,7 @@ excerpt: 'Best arm identification with fairness constraints on subpopulations.'
 date: 2023-12-01
 venue: 'Winter Simulation Conference (WSC)'
 authors: 'Yuhang Wu, Zeyu Zheng, Tingyu Zhu (in alphabetical order)'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2304.04091'
 ---
 
 This paper studies the best arm identification problem with fairness constraints on subpopulations. We develop algorithms that balance exploration efficiency with fairness requirements across different population groups.

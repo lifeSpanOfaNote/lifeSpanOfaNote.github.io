@@ -6,7 +6,7 @@ author_profile: true
 
 ## Bio
 
-Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as a Chamber Pianist at the UC Berkeley Department of Music. Specializing in the string and piano chamber music repertoire, she frequently partners with instrumentalists in sonatas, trios, and larger ensembles, with regular appearances at the university's Noon Concert series. Her musical focus centers on the works of J.S. Bach and Johannes Brahms, driven by a deep analytical interest in their structural architecture and textural depth. She currently studies piano under the guidance of Margret Elson.
+Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as a Chamber Pianist at the UC Berkeley Department of Music. Specializing in the string and piano chamber music repertoire, she frequently partners with instrumentalists in sonatas, trios, and larger ensembles, with regular appearances at the university's Noon Concert series. She is also a member of the [Berkeley Piano Club](https://www.berkeleypianoclub.org/){:target="_blank" rel="noopener"}. Her musical focus centers on the works of J.S. Bach, Ludwig van Beethoven, and Johannes Brahms, driven by a deep analytical interest in their structural architecture and textural depth. She currently studies piano under the guidance of Margret Elson.
 
 
 

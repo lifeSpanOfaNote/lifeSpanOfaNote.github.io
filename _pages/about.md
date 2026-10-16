@@ -10,6 +10,8 @@ redirect_from:
 
 I am **Tingyu Zhu (朱婷宇)**, a Ph.D. candidate in the Department of [Industrial Engineering and Operations Research (IEOR)](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/), advised by Prof. [Zeyu Zheng](https://zheng80.github.io/). I received my B.S. in Mathematics and Applied Mathematics from [Peking University](https://www.pku.edu.cn/) in 2022.
 
+**I am on the 2026-2027 academic job market.** My CV is available [here](/files/cv_tingyu.pdf){:target="_blank" rel="noopener"}.
+
 ## Research Interests
 
 My research focuses on the intersection of **generative AI** and **operations research**, with particular interests in:
@@ -35,7 +37,3 @@ My research focuses on the intersection of **generative AI** and **operations re
 - The Ronald W. Wolff Fellowship, IEOR Department, 2023
 - Outstanding Graduate, Peking University, 2022
 - Young Scholar, Yuanpei College, 2021
-
-## Hobbies
-
-Hiking · Cycling · Yoga · Pilates · Ballet

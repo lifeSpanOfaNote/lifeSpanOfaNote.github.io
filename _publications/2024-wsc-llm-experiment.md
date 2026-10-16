@@ -6,10 +6,10 @@ permalink: /publication/2024-wsc-llm-experiment
 excerpt: 'Using LLMs to assist experiment design through generative human-behavior agents.'
 date: 2024-12-01
 venue: 'Winter Simulation Conference (WSC)'
-authors: ' Haoyu Liu, Yifu Tang, Zizhao Zhang, Zeyu Zheng, Tingyu Zhu (in alphabetical order)'
+authors: 'Haoyu Liu, Yifu Tang, Zizhao Zhang, Zeyu Zheng, Tingyu Zhu (equal contribution, in alphabetical order)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10838726'
 ---
 
 This paper explores the use of Large Language Models to assist in experiment design by creating generative agents that simulate human behavior.
 
-**Authors**: Haoyu Liu, Yifu Tang, Zizhao Zhang, Zeyu Zheng, Tingyu Zhu (in alphabetical order)
+**Authors**: Haoyu Liu, Yifu Tang, Zizhao Zhang, Zeyu Zheng, Tingyu Zhu (equal contribution, in alphabetical order)

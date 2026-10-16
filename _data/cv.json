@@ -87,6 +87,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Learning to Simulate from Heavy-Tailed Distribution via Diffusion Model",
+      "publisher": "Operations Research",
+      "releaseDate": "2026-01-01",
+      "website": "https://ssrn.com/abstract=4975931",
+      "summary": "H. Liu†, T. Zhu†, N. Jia, J. He, Z. Zheng (co-first author)"
+    },
+    {
       "name": "ResiliBench: Evaluating Agentic Workflow Adaptation in Stochastic Environments",
       "publisher": "ICLR 2026",
       "releaseDate": "2026-05-01",
@@ -115,11 +122,53 @@
       "summary": "T. Zhu, H. Liu, Z. Zheng"
     },
     {
+      "name": "Large Language Model Assisted Experiment Design with Generative Human-Behavior Agents",
+      "publisher": "WSC 2024",
+      "releaseDate": "2024-12-01",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10838726",
+      "summary": "H. Liu, Y. Tang, Z. Zhang, Z. Zheng, T. Zhu (equal contribution, in alphabetical order)"
+    },
+    {
+      "name": "A Preliminary Study on Accelerating Simulation Optimization with GPU Implementation",
+      "publisher": "WSC 2024",
+      "releaseDate": "2024-12-01",
+      "website": "https://ieeexplore.ieee.org/document/10838919",
+      "summary": "J. He, H. Liu, Y. Wu, Z. Zheng, T. Zhu (in alphabetical order)"
+    },
+    {
       "name": "Best Arm Identification with Fairness Constraints on Subpopulations",
       "publisher": "WSC 2023",
       "releaseDate": "2023-12-01",
       "website": "",
       "summary": "Y. Wu, Z. Zheng, T. Zhu (in alphabetical order)"
+    },
+    {
+      "name": "Endless Revision: When Feedback on LLM-Generated Designs Keeps Turning Up New Problems",
+      "publisher": "Submitted to Operations Research",
+      "releaseDate": "2026-10-01",
+      "website": "",
+      "summary": "T. Zhu, Z. Zheng"
+    },
+    {
+      "name": "Selection of the Best Policy under Fairness Constraints",
+      "publisher": "Submitted to Operations Research",
+      "releaseDate": "2026-05-11",
+      "website": "https://arxiv.org/abs/2605.09945",
+      "summary": "T. Zhu, Y. Wu, Z. Zheng"
+    },
+    {
+      "name": "Spiral RoPE: Rotate Your Rotary Positional Embeddings in the 2D Plane",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026-07-01",
+      "website": "https://arxiv.org/abs/2602.03227",
+      "summary": "H. Liu, S. Ren, T. Zhu, P. Wang, C. Xie, A. Yuille, Z. Zheng, F. Wang"
+    },
+    {
+      "name": "IDA-Bench: Evaluating LLMs on Interactive Guided Data Analysis",
+      "publisher": "arXiv Preprint",
+      "releaseDate": "2025-05-23",
+      "website": "https://arxiv.org/abs/2505.18223",
+      "summary": "H. Li†, H. Liu†, T. Zhu†, T. Guo†, Z. Zheng, X. Deng, M. I. Jordan (co-first author)"
     }
   ],
   "presentations": [],
