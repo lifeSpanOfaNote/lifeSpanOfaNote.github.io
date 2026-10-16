@@ -33,6 +33,7 @@ My research focuses on the intersection of **generative AI** and **operations re
 
 ## Selected Awards
 
+- Marshall-Oliver-Rosenberger (MOR) Fellowship, IEOR Department, 2026
 - IEOR Faculty Fellowship, 2025
 - The Ronald W. Wolff Fellowship, IEOR Department, 2023
 - Outstanding Graduate, Peking University, 2022

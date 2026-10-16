@@ -87,6 +87,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties",
+      "publisher": "NeurIPS 2026",
+      "releaseDate": "2026-12-01",
+      "website": "",
+      "summary": "J. Ying, H. Liu, T. Yang, T. Zhu, P. Neskovic, A. Bhattad, C. Xie, Z. Zheng, A. Yuille, F. Wang"
+    },
+    {
       "name": "Learning to Simulate from Heavy-Tailed Distribution via Diffusion Model",
       "publisher": "Operations Research",
       "releaseDate": "2026-01-01",
