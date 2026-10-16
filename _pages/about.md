@@ -14,7 +14,7 @@ I am **Tingyu Zhu (朱婷宇)**, a Ph.D. candidate in the Department of [Industr
 
 ## Research Interests
 
-My research focuses on the intersection of **generative AI** and **operations research**, with particular interests in:
+My research focuses on the intersection of **generative AI** and **stochastic modeling**, with particular interests in:
 
 - **Generative AI and Agents**: Diffusion Models, Controllable Generative AI, Agentic Workflows
 - **Stochastic Modeling & Simulation**: Simulation and Stochastic Processes, Sequential Experiments
