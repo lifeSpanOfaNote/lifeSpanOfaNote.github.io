@@ -13,8 +13,8 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 ## Chamber Repertoire
 
 **Ludwig van Beethoven**
-- Violin Sonata No. 4 in A minor, Op. 23
-- Violin Sonata No. 5 in F major, Op. 24 "Spring"
+- Sonata for Piano and Violin No. 4 in A minor, Op. 23
+- Sonata for Piano and Violin No. 5 in F major, Op. 24 "Spring"
 
 **Lili Boulanger**
 - Nocturne for Violin and Piano
@@ -23,7 +23,7 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 - Piano Trio No. 1 in B major, Op. 8 (1889 version)
 
 **Wolfgang Amadeus Mozart**
-- Violin Sonata in G major, K. 301
+- Sonata for Piano and Violin in G major, K. 301
 
 
 
@@ -34,8 +34,8 @@ Active as both a solo and collaborative pianist, Tingyu Zhu currently serves as 
 - Johannes Brahms: Piano Trio No. 1 in B major, Op. 8 (1889 version)
 
 **May 11, 2025 — Berkeley Piano Club**
-- W.A. Mozart: Violin Sonata in G major, K. 301
-- L. van Beethoven: Violin Sonata No. 4 in A minor, Op. 23
+- W.A. Mozart: Sonata for Piano and Violin in G major, K. 301
+- L. van Beethoven: Sonata for Piano and Violin No. 4 in A minor, Op. 23
 - Lili Boulanger: Nocturne for Violin and Piano
 
 **November 6, 2024 — Hertz Hall, UC Berkeley**
