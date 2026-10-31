@@ -1,5 +1,5 @@
 ---
-title: "Endless Revision: When Feedback on LLM-Generated Designs Keeps Turning Up New Problems"
+title: "Stating Requirements Is Not Enough: A Stochastic Framework for Open-Ended Work with LLMs"
 collection: publications
 category: preprints
 permalink: /publication/2026-preprint-endless-revision
